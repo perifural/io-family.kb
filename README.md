@@ -24,3 +24,12 @@
 王喆在观看媒体时突然发现媒体开始重复，但是他没意识到他正在观看纳可谷歌记录。
 
 <img src="assets/584d89a3a4f10c28f8e2f2c302938a6.jpg" alt="20240629 Theodore Survey" style="zoom: 25%;" />
+
+## 怕狗
+
+以及猫、洋葱、咖啡、冰粉、整个大蒜、地铁。
+
+合理运用Exposure Therapy或许可缓解症状。
+
+`pip install therapy`
+
