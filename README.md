@@ -26,13 +26,17 @@
 
 <img src="assets/584d89a3a4f10c28f8e2f2c302938a6.jpg" alt="20240629 Theodore Survey" style="zoom: 25%;" />
 
-## 怕狗
+## 至翰怕
 
-以及猫、洋葱、咖啡、冰粉、整个大蒜、地铁。
+至翰怕狗、猫、洋葱、咖啡、冰粉、整个大蒜、地铁、酸黄瓜。
 
-合理运用Exposure Therapy或许可缓解症状。
+合理运用Exposure Therapy或许可缓解Psychological Allergies。
 
 `pip install therapy`
+
+亦可尝试三个O的经典汉堡
+
+<img src="assets/image-20240708092856170.png" alt="Triple O's Burgers" style="zoom: 15%;" />
 
 ## 安检、骨头
 
