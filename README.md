@@ -54,6 +54,26 @@
 
 后指启帆的表面大师上为王喆提供的日记应用。“我教你画马”。
 
+## 卡G门
+
+源自王喆的OneNote错误的OCR手写识别并显示在显眼的地方。
+
+现表示各种类型的卡住(Struggle)。
+
+因谷歌说“G is for Google”，所以卡G门更适合用于形容在谷歌的成品中遇到困难。例如：产品下架。
+
+<img src="assets/image-20240708110345255.png" alt="image-20240708110345255" style="zoom:25%;" />
+
+已经发生的卡G门事件：谷歌相册（Google Photos）停止提供无限空间、Stadia停止服务、谷歌域名（Google Domains）停止服务、谷歌酱板（Google Jam Board）即将停止服务。
+
+## 静电
+
+Static，指存储在内容分发网络（CDN）中的静态内容。启发自谷歌静电（gstatic.com）。
+
+## 开走了
+
+Drive away，原指公司或家庭共享的OneDrive被终止共享导致文件丢失。现亦指云服务停止工作造成的损失。
+
 ## LUCK
 
 王喆
