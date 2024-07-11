@@ -1,5 +1,18 @@
 # IO Family Knowledge Base
 
+## 接下来要写的
+
+- [ ] 理发
+- [ ] 仅提供场地
+
+- [ ] 硬要多加
+
+- [ ] 活动桌面恢复
+
+- [ ] 玩游戏玩到一半
+
+  
+
 ## 画画有害身体健康
 
 > **Drawing is bad for your health. **
