@@ -3,4 +3,4 @@ theme: readthedocs
 
 nav:
   - Home: index.md
-  - 效率: misc/misc.md
+  - 效率: misc.md
