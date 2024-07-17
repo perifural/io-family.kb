@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: I/O Family Knowledge Base
+theme: readthedocs
+
+nav:
+  - Home: index.md
+  - 效率: misc.md
