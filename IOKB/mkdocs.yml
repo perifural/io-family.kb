@@ -3,3 +3,4 @@ theme: readthedocs
 
 not_in_nav:
   index.md
+  temp.md
