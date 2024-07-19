@@ -1,6 +1,6 @@
 site_name: I/O Family Knowledge Base
 theme: readthedocs
 
-not_in_nav:
-  index.md
-  temp.md
+not_in_nav: |
+  /index.md
+  /temp.md
