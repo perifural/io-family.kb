@@ -1,5 +1,22 @@
 site_name: I/O Family Knowledge Base
-theme: readthedocs
+
+theme:
+  name: material
+  palette:
+    primary: custom
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 not_in_nav: |
   /index.md
