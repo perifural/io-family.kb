@@ -5,8 +5,11 @@ theme:
   name: material
   language: zh
   palette:
-    primary: blue
-    accent: blue
+    primary: custom
+    accent: custom
+
+extra_css:
+  - stylesheets/extra.css
   
 extra:
   generator: false
