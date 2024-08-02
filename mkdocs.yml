@@ -1,1 +1,28 @@
-site_name: My Docs
+site_name: I/O Family Knowledge Base
+site_url: https://kb.io-family.com
+
+theme:
+  name: material
+  language: zh
+  palette:
+    primary: brown
+    accent: brown
+  
+# extra:
+#   generator: false
+
+copyright: Copyright &copy; 2024 io-family.com
+
+markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - footnotes
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+not_in_nav: |
+  /index.md
