@@ -5,13 +5,13 @@ theme:
   name: material
   language: zh
   palette:
-    primary: brown
-    accent: brown
+    primary: blue
+    accent: blue
   
-# extra:
-#   generator: false
+extra:
+  generator: false
 
-copyright: Copyright &copy; 2024 io-family.com
+copyright: Copyleft � 2024 io-family, All rights throw away
 
 markdown_extensions:
   - pymdownx.critic
